@@ -1,0 +1,2 @@
+# jxgsnews
+news
